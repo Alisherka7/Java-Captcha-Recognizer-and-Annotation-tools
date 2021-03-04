@@ -1,7 +1,4 @@
 
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/38793933/109935426-eb908d80-7d10-11eb-80a1-fb95a347bad9.png" alt="Main Page" width="500" height="300">
-</p>
 <h1 align="center">Java Captcha Recognizer and Annotation tool</h1>
 
 
