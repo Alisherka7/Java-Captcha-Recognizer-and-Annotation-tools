@@ -43,3 +43,15 @@ The goal of this project is to recognize captcha with the ability to sort correc
 
 <img src="https://user-images.githubusercontent.com/38793933/109986298-f36c2400-7d48-11eb-8bdb-48f91f544029.jpg">
 <hr>
+
+* 1: OPEN DIR button to import data file
+* 2: Window for showing captcha
+* 3: Captcha recognition result
+* 4: NEXT IMG button
+* 5: PREVIOUS IMG button
+* 6: If the recognition is correct then click on the correct button to continue.
+* 7: If the recognition is not correct then click on the INCORRECT button to copy this captcha to the incorrect folder
+* 8: List with IMAGES NAMES
+* 9: Number of imported images
+
+
