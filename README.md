@@ -54,4 +54,6 @@ The goal of this project is to recognize captcha with the ability to sort correc
 * 8: List with IMAGES NAMES
 * 9: Number of imported images
 
+<img src="https://user-images.githubusercontent.com/38793933/109986301-f49d5100-7d48-11eb-947c-901480f649b4.jpg">
+
 
