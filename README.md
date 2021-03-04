@@ -22,9 +22,21 @@ The goal of this project is to recognize captcha with the ability to sort correc
 * 1: Upload the Zip project file
 * 2: Install Java JDK and Apache NetBeans IDE
 * 3: Import the downloaded zip file File -> Import porject -> From ZIP
+
 <img src="https://user-images.githubusercontent.com/38793933/109986276-f0713380-7d48-11eb-8337-bf9c3d453314.jpg">
+
 <img src="https://user-images.githubusercontent.com/38793933/109986287-f1a26080-7d48-11eb-8dd0-5300d179cbf0.jpg">
+
 <img src="https://user-images.githubusercontent.com/38793933/109986292-f23af700-7d48-11eb-98ec-be0b9435230c.jpg">
+
 * 4: After importing, run the project
+
 <img src="https://user-images.githubusercontent.com/38793933/109986295-f2d38d80-7d48-11eb-8a3d-6c5b38d90e2e.jpg">
 
+## Usage
+
+* 1:Import data (OPEN DIR)
+* 3 data folders required <br>
+    1st (images) folder
+    2nd (incorrect) folder
+    1st (labeled) folder
