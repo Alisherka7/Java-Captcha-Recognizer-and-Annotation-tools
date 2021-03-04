@@ -35,13 +35,14 @@ The goal of this project is to recognize captcha with the ability to sort correc
 
 ## Usage
 
-* 1: Import data (OPEN DIR)
+#### 1: Import data (OPEN DIR)
 
 <img src="https://user-images.githubusercontent.com/38793933/109986296-f2d38d80-7d48-11eb-96ba-5837a754b036.jpg">
 
-* 2: Data folders required <br>
+#### 2: Data folders required <br>
     1st (images) folder<br>
     2nd (incorrect) folder<br>
     1st (labeled) folder<br>
 
 <img src="https://user-images.githubusercontent.com/38793933/109986298-f36c2400-7d48-11eb-8bdb-48f91f544029.jpg">
+<hr>
