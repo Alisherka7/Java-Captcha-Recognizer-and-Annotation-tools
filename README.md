@@ -1,6 +1,7 @@
 
 <h1 align="center">Java Captcha Recognizer and Annotation tool</h1>
 
+<img src="https://user-images.githubusercontent.com/38793933/109995893-0afbda80-7d52-11eb-8dac-73e96195891d.gif">
 
 # About The Project
  
