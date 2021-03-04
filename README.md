@@ -6,27 +6,13 @@
 </p>
 <h1 align="center">Java Captcha Recognizer and Annotation tool</h1>
 
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Technologies</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
-  </ol>
-</details>
+
+## About The Project
+ 
+The goal of this project is to recognize captcha with the ability to sort correct and incorrect recognition
+
+## Technologies
+
+* [JAVA 15.0.1](https://openjdk.java.net/projects/jdk/15/)
+* [JAVA SWING GUI](https://en.wikipedia.org/wiki/Swing_(Java))
+* [Apache NetBeans IDE 12.1](https://netbeans.apache.org/)
