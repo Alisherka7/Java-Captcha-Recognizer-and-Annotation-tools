@@ -3,6 +3,7 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/38793933/109995893-0afbda80-7d52-11eb-8dac-73e96195891d.gif">
 </p>
+
 # About The Project
  
 The goal of this project is to recognize captcha with the ability to sort correct and incorrect recognition
