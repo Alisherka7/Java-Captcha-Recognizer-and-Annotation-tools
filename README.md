@@ -37,6 +37,6 @@ The goal of this project is to recognize captcha with the ability to sort correc
 
 * 1:Import data (OPEN DIR)
 * 3 data folders required <br>
-    1st (images) folder
-    2nd (incorrect) folder
-    1st (labeled) folder
+    1st (images) folder<br>
+    2nd (incorrect) folder<br>
+    1st (labeled) folder<br>
