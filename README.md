@@ -1,12 +1,10 @@
 
-
-<h1 align="center">Java Captcha Recognizer and Annotation tool</h1>
 <p align="center">
   <a href="https://getbootstrap.com/">
-    <img src="https://user-images.githubusercontent.com/38793933/109935426-eb908d80-7d10-11eb-80a1-fb95a347bad9.png" alt="Main Page">
+    <img src="https://user-images.githubusercontent.com/38793933/109935426-eb908d80-7d10-11eb-80a1-fb95a347bad9.png" alt="Main Page" width="500" height="300">
   </a>
 </p>
-
+<h1 align="center">Java Captcha Recognizer and Annotation tool</h1>
 
 <details open="open">
   <summary>Table of Contents</summary>
