@@ -20,7 +20,7 @@ The goal of this project is to recognize captcha with the ability to sort correc
 
 * 1: Upload the Zip project file
 * 2: Install Java JDK and Apache NetBeans IDE
-* 3: Import the downloaded zip file File -> Import porject -> From ZIP
+* 3: Import the downloaded zip file:     File -> Import porject -> From ZIP
 
 <img src="https://user-images.githubusercontent.com/38793933/109986276-f0713380-7d48-11eb-8337-bf9c3d453314.jpg">
 
